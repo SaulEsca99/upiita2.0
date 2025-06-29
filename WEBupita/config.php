@@ -12,7 +12,7 @@ if ($is_production) {
     define('BASE_URL', '');  
     
     // Cambia esto por tu dominio real
-    define('SITE_URL', 'https://tudominio.com');
+    define('SITE_URL', 'https://upiitafinder.com/');
 } else {
     // Desarrollo local
     define('BASE_URL', '/TecnologiasParaElDesarrolloDeAplicacionesWeb/SchoolPathFinder/WEBupita');
